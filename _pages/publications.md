@@ -8,7 +8,7 @@ nav: true
 nav_order: 1
 ---
 
-Currently, this page is under construction. For now, you can find a complete publication list in my <a href = '/al-folio/assets/pdf/cv.pdf'>cv</a>. 
+This page is under construction. For now, you can find a complete publication list in my <a href = '/thkim0321.github.io/assets/pdf/cv.pdf'>cv</a>. 
 
 <!-- _pages/publications.md -->
 <div class="publications">
